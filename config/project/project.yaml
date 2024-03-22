@@ -1,0 +1,22 @@
+dateModified: 1711114461
+email:
+  fromEmail: crazzaraft@gmail.com
+  fromName: PLACED
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    8bdc543f-4c4e-45b6-9742-d2e7aa9ac1fe: PLACED # PLACED
+    724c7b7e-35c8-4bb0-a6ff-3202986121f7: PLACED # PLACED
+    ccb1009a-4309-46e4-8537-830047771541: Common # Common
+system:
+  edition: solo
+  live: true
+  name: PLACED
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

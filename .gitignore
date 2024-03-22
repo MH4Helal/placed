@@ -1,0 +1,7 @@
+.vscode
+storage
+vendor
+web/cpresources
+.htaccess
+web.config
+.env

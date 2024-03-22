@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-GB
+name: PLACED
+primary: true
+siteGroup: 724c7b7e-35c8-4bb0-a6ff-3202986121f7 # PLACED
+sortOrder: 1
